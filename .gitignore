@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.murphy/
+*.tsbuildinfo
+.DS_Store
