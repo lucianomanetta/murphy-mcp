@@ -1,6 +1,7 @@
 {
   "name": "murphy-mcp",
   "version": "0.1.0",
+  "mcpName": "io.github.lucianomanetta/murphy-mcp",
   "description": "An MCP server that gives a coding agent a record it did not write: what actually changed on disk and in git, held against what the agent said it did.",
   "license": "MIT",
   "author": "Luciano Manetta",
