@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.lucianomanetta/murphy-mcp",
+  "description": "Gives a coding agent a record it did not write: what changed on disk and in git, versus its claims.",
+  "repository": {
+    "url": "https://github.com/lucianomanetta/murphy-mcp",
+    "source": "github",
+    "id": "1449553775"
+  },
+  "version": "0.1.0",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "murphy-mcp",
+      "version": "0.1.0",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
